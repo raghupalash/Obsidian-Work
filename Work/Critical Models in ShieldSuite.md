@@ -1,0 +1,34 @@
+- MarketPlace
+- State
+- City
+- ZipCode
+- GoogleState
+- GoogleCity
+- GoogleZipCode
+- Banner
+- Merchant
+- Company
+- Manufacturer
+- Categories and Subcategories of breverages?
+- Brand
+- Sku
+- Restaurant
+- Menu
+
+Used by pricepulse(another product):
+- AvailabilityColumn
+- Banner
+- BottleSize
+- Brand
+- City
+- Company
+- CustomGrouping
+- Datashot
+- Entity
+- Listing
+- Marketplace
+- RTIEResponse
+- Screenshot
+- Sku
+- State
+- ZipCode

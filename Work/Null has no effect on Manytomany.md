@@ -1,0 +1,1 @@
+`null=True` has no effect on [[ManyToManyField]] because there isn't an actual field to be set to null, rather there is a whole another table with foreign keys pointing to the specified table.
