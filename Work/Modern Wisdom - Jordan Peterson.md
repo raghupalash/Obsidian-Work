@@ -1,0 +1,11 @@
+- The Christian Passion
+	- You'll master what you face
+	- If you face everything that thrown in front of you what would it make you?
+		- The True son of God!
+			- You don't believe that, what's your theory?
+				- You either face it, and you do that predicated on the faith that something in you might respond to it, or you don't face it, predicated on the faith that deception will suffice.
+	- if you allow the highest spirit to posses you, you can face everything life throws at you.
+		- The heaviest things in life is unmade decisions.
+-  There's nothing too small to fight about.
+- Dopamine is not about pursuit of happiness, but happiness of pursuit. - Andrew Huberman podcast.
+- Forgo the comfort, for the adventure

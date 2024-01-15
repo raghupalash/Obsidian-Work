@@ -20,42 +20,55 @@
             }
           },
           {
-            "id": "4af1f4b892aec962",
+            "id": "f4512a2e96e3e805",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Django test import error.md",
+                "file": "Long Polling.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e300d662c9d43dab",
+            "id": "d6415b2540952129",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing meeting notes.md",
+                "file": "Pull queries.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "a0eaa15ad17c6c31",
+            "id": "af3399ed395c77ff",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Testing Documentation.md",
-                "mode": "preview",
+                "file": "Long Polling.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5350ff8d5fd170ea",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Modern Wisdom - Jordan Peterson.md",
+                "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -105,7 +118,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "42c98b70acb42579",
@@ -121,7 +135,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2024-01-12.md",
+                "file": "Long Polling.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +152,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "2024-01-12.md",
+                "file": "Long Polling.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +175,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2024-01-12.md"
+                "file": "Long Polling.md"
               }
             }
           }
@@ -182,23 +196,30 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "13b7753714cc9317",
+  "active": "af3399ed395c77ff",
   "lastOpenFiles": [
-    "2024-01-05.md",
+    "Traditional Polling.md",
+    "Pull queries.md",
+    "Kafka.md",
+    "Modern Wisdom - Jordan Peterson.md",
+    "Long Polling.md",
+    "When leave..md",
     "2024-01-12.md",
-    "2024-01-04.md",
     "JSS381 QA Unit Testing Framework.md",
-    "[Testing.md",
+    "Null has no effect on Manytomany.md",
+    "Untitled.md",
+    "Push notifications.md",
+    "Critical Models in ShieldSuite.md",
+    "Vim Key bindings.md",
     "Django test import error.md",
+    "2024-01-05.md",
+    "2024-01-04.md",
+    "[Testing.md",
     "Testing meeting notes.md",
     "Testing Documentation.md",
-    "Untitled.md",
     "Test database creation is really  slow.md",
-    "Vim Key bindings.md",
     "JSS-422 R&D to find Google neighborhood stores for any particular store..md",
-    "Null has no effect on Manytomany.md",
     "Testing.md",
-    "Jenda Architecture.md",
-    "Critical Models in ShieldSuite.md"
+    "Jenda Architecture.md"
   ]
 }
