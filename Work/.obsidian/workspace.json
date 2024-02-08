@@ -4,64 +4,52 @@
     "type": "split",
     "children": [
       {
-        "id": "b69f23e8b3ce1f3e",
+        "id": "fdcf480168f885bb",
         "type": "tabs",
         "children": [
           {
-            "id": "13b7753714cc9317",
+            "id": "1a26363ab62cce98",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-01-12.md",
+                "file": "2024-02-07.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "f4512a2e96e3e805",
+            "id": "8f297620eb6e7f50",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Long Polling.md",
+                "file": "Datatypes in Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "d6415b2540952129",
+            "id": "0c8f5bf105088ab8",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Pull queries.md",
+                "file": "Datatypes in Python.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "af3399ed395c77ff",
+            "id": "3d44278dff63e755",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Long Polling.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "5350ff8d5fd170ea",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Modern Wisdom - Jordan Peterson.md",
+                "file": "Self Documenting Expression.md",
                 "mode": "source",
                 "source": false
               }
@@ -118,8 +106,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "42c98b70acb42579",
@@ -135,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Long Polling.md",
+                "file": "Self Documenting Expression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -152,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Long Polling.md",
+                "file": "Self Documenting Expression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -175,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Long Polling.md"
+                "file": "Self Documenting Expression.md"
               }
             }
           }
@@ -196,30 +183,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "af3399ed395c77ff",
+  "active": "3d44278dff63e755",
   "lastOpenFiles": [
+    "Self Documenting Expression.md",
+    "Datatypes in Python.md",
+    "Untitled.md",
+    "Pasted image 20240208170651.png",
+    "Pasted image 20240208170609.png",
+    "Pasted image 20240208164051.png",
+    "Pasted image 20240208164024.png",
+    "2024-02-07.md",
+    "JSS-481 APART Export..md",
+    "JSS-472.md",
+    "JSS-546.md",
+    "JSS381 QA Unit Testing Framework.md",
+    "Push notifications.md",
+    "Test database creation is really  slow.md",
+    "Testing Documentation.md",
+    "Testing meeting notes.md",
     "Traditional Polling.md",
+    "Vim Key bindings.md",
+    "Jenda Architecture.md",
+    "Django test import error.md",
+    "Long Polling.md",
+    "Modern Wisdom - Jordan Peterson.md",
     "Pull queries.md",
     "Kafka.md",
-    "Modern Wisdom - Jordan Peterson.md",
-    "Long Polling.md",
     "When leave..md",
     "2024-01-12.md",
-    "JSS381 QA Unit Testing Framework.md",
     "Null has no effect on Manytomany.md",
-    "Untitled.md",
-    "Push notifications.md",
     "Critical Models in ShieldSuite.md",
-    "Vim Key bindings.md",
-    "Django test import error.md",
-    "2024-01-05.md",
-    "2024-01-04.md",
-    "[Testing.md",
-    "Testing meeting notes.md",
-    "Testing Documentation.md",
-    "Test database creation is really  slow.md",
-    "JSS-422 R&D to find Google neighborhood stores for any particular store..md",
-    "Testing.md",
-    "Jenda Architecture.md"
+    "2024-01-05.md"
   ]
 }

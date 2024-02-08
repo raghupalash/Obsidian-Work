@@ -9,3 +9,4 @@
 -  There's nothing too small to fight about.
 - Dopamine is not about pursuit of happiness, but happiness of pursuit. - Andrew Huberman podcast.
 - Forgo the comfort, for the adventure
+- Luciferian Intellect.
