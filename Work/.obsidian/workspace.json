@@ -8,55 +8,31 @@
         "type": "tabs",
         "children": [
           {
-            "id": "1a26363ab62cce98",
+            "id": "98c41b8d70e1bcfa",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2024-02-07.md",
+                "file": "2024-02-29.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "8f297620eb6e7f50",
+            "id": "a13f56e9510e26c5",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Datatypes in Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0c8f5bf105088ab8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Datatypes in Python.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "3d44278dff63e755",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Self Documenting Expression.md",
+                "file": "2024-03-05.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -122,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Self Documenting Expression.md",
+                "file": "2024-03-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Self Documenting Expression.md",
+                "file": "2024-03-05.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Self Documenting Expression.md"
+                "file": "2024-03-05.md"
               }
             }
           }
@@ -183,16 +159,29 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "3d44278dff63e755",
+  "active": "a13f56e9510e26c5",
   "lastOpenFiles": [
-    "Self Documenting Expression.md",
+    "Category field.md",
+    "2024-03-05.md",
+    "2024-02-29.md",
+    "Adventure.md",
+    "2024-02-23.md",
+    "Overall Tab.md",
+    "2024-01-12.md",
+    "2024-02-07.md",
+    "JSS-631 Entity Breakdown.md",
+    "Django test import error.md",
     "Datatypes in Python.md",
+    "Critical Models in ShieldSuite.md",
+    "Iterable.md",
+    "Iterators.md",
+    "Method Resolution Order.md",
+    "Self Documenting Expression.md",
     "Untitled.md",
     "Pasted image 20240208170651.png",
     "Pasted image 20240208170609.png",
     "Pasted image 20240208164051.png",
     "Pasted image 20240208164024.png",
-    "2024-02-07.md",
     "JSS-481 APART Export..md",
     "JSS-472.md",
     "JSS-546.md",
@@ -201,18 +190,6 @@
     "Test database creation is really  slow.md",
     "Testing Documentation.md",
     "Testing meeting notes.md",
-    "Traditional Polling.md",
-    "Vim Key bindings.md",
-    "Jenda Architecture.md",
-    "Django test import error.md",
-    "Long Polling.md",
-    "Modern Wisdom - Jordan Peterson.md",
-    "Pull queries.md",
-    "Kafka.md",
-    "When leave..md",
-    "2024-01-12.md",
-    "Null has no effect on Manytomany.md",
-    "Critical Models in ShieldSuite.md",
-    "2024-01-05.md"
+    "Traditional Polling.md"
   ]
 }

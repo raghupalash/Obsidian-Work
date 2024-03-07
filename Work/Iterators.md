@@ -1,0 +1,1 @@
+Iterator is an object in python that is used to go through the items of an [[Iterable]] (list, tuple, dict etc). It is initialized using the builtin iter() function.

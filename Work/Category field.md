@@ -1,0 +1,12 @@
+- In UI, we would need to have 3 columns - Wine, Spirits, Beer - One or two more maybe. Shouldn't be that hard.
+-  In backend, we can access the columns, since we are joining the Sku table. Then I think we could go through every row and make one column instead off 3.
+- So every table entry will also have 3 columns - spirit category, wine category and beer category.
+- Now, the normal flow is that, we Select and group directly by sub column name, but we can't do that with category. Because it's not just 1 category, but three. 
+- In my mind, I think the easier approach is that we can get all the three things, by writing a separate SQL query for sub_column = category_id
+- Let's just populate the table headers using Sku's that we are given. Because those fields would be filled anyways.
+- Two data we need to fetch from the db, one from athena, one from local, normal db.
+	 - To populate headers, from get_report_columns
+		 - We can only get those categories that are connected to the skus
+	 - To populate data, from utils.py
+		 - we get all the three category fields, so we'll have the category_id in one of them
+	- 

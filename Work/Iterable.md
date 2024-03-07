@@ -1,0 +1,1 @@
+Iterable is an object that implements the iter protocol i.e., that has `__iter__` and `__next__` methods.
